@@ -4,7 +4,7 @@ function Home() {
       <div className="container">
         <h1>Detect Kidney Stones Early and Take Control of Your Health</h1>
         <p>Using advanced algorithms, our app provides quick and accurate kidney stone detection so you can take timely action and prevent further complications.</p>
-        <a href="#upload form" className="cta-button">Book An Appoinment</a>
+        <a href="#upload form" className="cta-button">Get Started</a>
       </div>
       <div className="features">
         <div className="feature">

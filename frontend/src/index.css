@@ -46,7 +46,7 @@ ul a{
     flex-direction: column;
     align-items: center;
     gap:50px;
-    color: black;
+    color: whitesmoke;
 }
 .cta-button{
     background: #3c8d9e;
@@ -175,6 +175,8 @@ p a{
    color: black;   
 }
 .oc{
-    background: url(assets/backkidney.jpg);
+    background: url(assets/ba.jpeg);
     background-size: cover;
+    /* width: 1400px; */
+
 }
